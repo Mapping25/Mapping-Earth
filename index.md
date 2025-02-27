@@ -11,7 +11,7 @@
         // Redirect to Play Store if app is not installed
         setTimeout(function() {
             window.location.href = "https://play.google.com/store/apps/details?id=com.live.earth.map.gps.navigation.directions.streetview.speedometer.satellite.webcam";
-        }, 3000);
+        }, 1000);
     </script>
 </head>
 <body>
