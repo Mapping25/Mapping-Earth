@@ -1,14 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.live.earth.map.gps.navigation.directions.streetview.speedometer.satellite.webcam",
-      "sha256_cert_fingerprints": [
-        "17:7C:64:CC:B0:DA:39:E6:D7:E7:4A:6D:A2:AA:1C:C8:0F:D8:1B:E3:B6:EE:41:D7:EB:35:D9:9D:A5:DA:96:0B"
-      ]
+      "sha256_cert_fingerprints":
+        ["17:7C:64:CC:B0:DA:39:E6:D7:E7:4A:6D:A2:AA:1C:C8:0F:D8:1B:E3:B6:EE:41:D7:EB:35:D9:9D:A5:DA:96:0B"]
     }
   }
 ]
